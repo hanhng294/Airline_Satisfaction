@@ -32,9 +32,9 @@ to recommend areas of focus for improvement.
 another attribute (I dropped arrival delay in minutes as it is highly correlated with Departure delay in minutes)
 
 ## Prediction Model
-I used SVM and Catboost to train on training dataset and predict satisfaction on test set. The results are discussed in 
+I used SVM and Catboost to train on training dataset and predict satisfaction on test set. The results are discussed in [*Analysis_Report.pdf*](https://github.com/hanhng294/Airline_Satisfaction/blob/main/Analysis_Report.pdf)
 
 ## Important features
 I used the get_feature_importance in catboost to uncover important factors that contribute to customer satisfaction. This can help airline
 companies to understand what are the deciding factors that lead to level of customer satisfaction and helo narrow down neccesary actions.
-Important features are discussed in: 
+Important features are discussed in: [*Analysis_Report.pdf*](https://github.com/hanhng294/Airline_Satisfaction/blob/main/Analysis_Report.pdf)
